@@ -23,7 +23,7 @@ Sincronizar las vidas en todos los clientes.
 
 Sincronizar la mecánica del suelo en todos los clientes.
 
-## Spawn (1)
+## Spawn (0.5)
 
 Spawnear correctamente los enemigos.
 
@@ -33,10 +33,8 @@ Sinconizar en todos los clientes el moviemiento de los enemigos.
 
 Modificar el color del jugador local para que sea diferente al del resto.
 
-## Avanzado (1)
+## Avanzado (2)
 
 Destruir los enemigos cuando el jugador colisiona en todos los clientes. Sin errores.
-
-## Extra
 
 Ejecutar la lógica para comprobar si el jugador ya ha usado su habilidad de desapaecer el suelo en el lado del servidor.
